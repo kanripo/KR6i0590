@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 文殊師利菩薩問菩提經論
+#+DATE: 2015-08-30 20:23:17.809598
+#+PROPERTY: JUAN 0
