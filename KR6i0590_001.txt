@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:17.529541
+#+DATE: 2015-08-30 20:23:19.125503
 #+TITLE: 文殊師利菩薩問菩提經論
 #+PROPERTY: CBETA_ID T26n1531
 #+PROPERTY: ID KR6i0590
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1531
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0590_T_000-0328a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0590_T_001-0328a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1531¶
-
- 《文殊師利菩薩問菩提經論》¶
+No. 1531¶
+《文殊師利菩薩問菩提經論》¶
 卷上(一名伽耶山頂經論)¶
 ¶
 天親菩薩造¶

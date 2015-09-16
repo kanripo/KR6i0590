@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:23:17.561935
+#+DATE: 2015-08-30 20:23:19.151769
 #+TITLE: 文殊師利菩薩問菩提經論
 #+PROPERTY: CBETA_ID T26n1531
 #+PROPERTY: ID KR6i0590
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 26, No. 1531
 #+PROPERTY: VOL 26
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0590_T_000-0328a>¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0590_T_002-0333a> ¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 《文殊師利菩薩問菩提經論》卷下¶
+《文殊師利菩薩問菩提經論》卷下¶
 (一名伽耶山頂經論)¶
 ¶
 天親菩薩造¶
@@ -253,8 +252,7 @@
 種種門修集善根迴向大菩提故。八取無盡¶
 觀者。以如實觀無邊眾生界故。九者不著無¶
 盡觀者。不著義如向所說。十相應無盡觀者。¶
-以如實觀是義非義故。十一道場智性無盡¶
-觀者。以隨眾生信示現坐道場故。如經善男¶
+以如實觀是義非義故。十一道場智性無盡觀者。以隨眾生信示現坐道場故。如經善男¶
 子是名諸菩薩摩訶薩十一種無盡觀。已說¶
 云何證。次說為何義。第五十種對治法示現。¶
 
